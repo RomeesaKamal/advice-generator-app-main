@@ -1,6 +1,6 @@
 # Frontend Mentor - Advice generator app solution
 
-This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Advice generator app challenge on Frontend Mentor](https://romeesakamal.github.io/advice-generator-app-main/). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -42,8 +42,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [ solution URL here](https://github.com/RomeesaKamal/advice-generator-app-main)
+- Live Site URL: [ live site URL here](https://romeesakamal.github.io/advice-generator-app-main/)
 
 ## My process
 
@@ -99,9 +99,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Romeesa Kamal](https://github.com/RomeesaKamal/advice-generator-app-main)
+- Frontend Mentor - [@Romeesakamal](https://www.frontendmentor.io/profile/RomeesaKamal)
+
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
