@@ -37,7 +37,7 @@ A Web Browser (preferably Brave)
 
 Clone the GitHub Repository
 
-- git clone "https://github.com/RomeesaKamal/Recipe-website.git"
+- git clone "https://github.com/RomeesaKamal/advice-generator-app-main.git"
 
 ### Usage
 
