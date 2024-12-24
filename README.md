@@ -70,7 +70,6 @@ Start your server by clicking Go Live
 ![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
 
 
-
 ### Links
 
 - Solution URL: [ solution URL here](https://github.com/RomeesaKamal/advice-generator-app-main)
@@ -129,7 +128,7 @@ The Advice Generator App is a project I plan to enhance with the following featu
 
 ## 🌎 Live Demo:
 
-- [Live Demo Link](romeesakamal.github.io/advice-generator-app-main/)
+- [Live Demo Link](https://romeesakamal.github.io/advice-generator-app-main/)
 
 
 ## Author
@@ -152,7 +151,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Thanks to the Mujeeb ur Rehman for the great curriculum.
+- Thanks to the [Mujeeb ur Rehman](https://github.com/Mujeeb4582/) for the great curriculum.
 - Thanks to the Code Reviewer(s) for the insightful feedback.
 
 ## 📝 License
